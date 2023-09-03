@@ -1,0 +1,188 @@
+.p1 {
+    display: inline-block;
+    font-weight: 900;
+    padding-top: 15px;
+    font-size: 23px;
+}
+
+body {
+    /* display: flex; */
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container-fluid {
+    background-color: rgb(83, 83, 243);
+    width: 700px;
+    height: 600px;
+    display: inline-block;
+}
+
+#logo {
+    position: relative;
+    bottom: 0px;
+    display: inline-block;
+    margin-left: 90px;
+
+}
+
+.tag {
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+    left: 50px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    top: 1px;
+    padding-left: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.btn {
+    position: relative;
+
+    left: 210px;
+
+}
+
+.clouds {
+    width: 100%;
+    position: relative;
+    top: 206px;
+}
+
+.controler {
+    position: relative;
+    bottom: 190px;
+    left: 837px;
+    width: 500px;
+    height: 500px;
+}
+
+#shoez {
+    width: 600px;
+    position: relative;
+    bottom: 195px;
+    right: 824px;
+}
+
+.p2 {
+    position: relative;
+    bottom: 760px;
+    font-weight: 800;
+    text-align: center;
+    font-size: 56px;
+    color: white;
+
+}
+
+.p3 {
+    text-align-last: center;
+    position: relative;
+    bottom: 760px;
+    color: white;
+    font-size: 17.72 px;
+}
+
+.bt1 {
+    position: relative;
+    bottom: 760px;
+    left: 450px;
+    margin-left: 20spx;
+    height: 50px;
+    width: 250spx;
+}
+
+.bt {
+    position: relative;
+    bottom: 760px;
+    left: 450px;
+    height: 50px;
+    width: 250px;
+}
+
+.pic {
+    position: relative;
+    bottom: 550px;
+    left: 60px;
+    display: inline-block;
+}
+
+.font {
+
+    display: inline-block;
+    position: relative;
+    bottom: 390px;
+    left: 180px;
+}
+
+.text {
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    position: relative;
+}
+
+.t1 {
+    font-size: 20px;
+}
+
+#div {
+    width: 1357px;
+    height: 690px;
+    position: relative;
+    bottom: 470px;
+    right: 20px;
+    
+}
+.voice{
+    width: 700px;
+    
+}
+.hanging{
+    position: relative;
+    bottom: 200px;
+    left: 80px;
+    display: inline-block;
+    
+}
+.hang{
+    position: relative;
+    bottom: 310px;
+    left: 130px;
+    display: inline-block;
+}
+#private{
+    position: relative;
+    left: 160px;
+    bottom: 80px;
+}
+#fandom{
+    position: relative;
+    left: 160px;
+    bottom: 80px;
+}
+
+#container{
+    background-color: #f7f7f7;
+    width: 1337px;
+    height: 1100px;
+}
+.fa1{
+    height: 50px;
+    width: 250px;
+    position: relative;
+    left: 500px;
+    top: 30px;
+}
+footer{
+    width: 1349px;
+    height: 611px;
+    background-color: #23272a;
+    position: relative;
+    top: 128px;
+    color: white;
+    padding: 80px 0px 64px;
+}
